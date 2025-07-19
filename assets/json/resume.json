@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Saurabh Tripathy",
-    "label": "Project Engineer", 
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "saurabhtripathy6@gmail.com",
-    "phone": "+91 7587323940",
-    "url": "https://lordofhell-666.github.io/portfolio/",
-    "summary": "Experienced and result-driven Senior Project Engineer with a strong track record in delivering complex solar energy projects from concept to commissioning. With over 10 years in the renewable energy sector, I specialize in project planning, execution, and stakeholder coordination, ensuring timely and cost-effective project delivery. A passionate Workday enthusiast, I actively explore and contribute to optimizing business processes through custom reports, calculated fields, and automation. Additionally, my hobby in programming allows me to bring a unique tech-savvy perspective to engineering challenges, enabling data-driven decision-making and system improvements. I thrive in dynamic environments where sustainability, technology, and innovation intersect.",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "C-82 Shreeji Madhuban",
-      "postalCode": "Amlidih",
-      "city": "Raipur",
-      "countryCode": "CG",
-      "region": "INDIA"
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
     "profiles": [
       {
@@ -24,7 +24,7 @@
   },
   "work": [
     {
-      "name": "Greenworld Solarwares Pvt Ltd",
+      "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
       "url": "https://example.com",
       "startDate": "1933-01-01",
